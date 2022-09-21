@@ -1,0 +1,72 @@
+.seccion_nav {
+
+ background-color: #373a3c !important;
+font-family: 'Lobster', cursive;
+ font-weight: 400 ;
+}
+#nav_id a{
+   
+    color:  #ffff !important ;
+
+ }
+
+
+/* seccion recetas */
+
+.texto_recetas {
+    color: #373a3c;
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.seccion_suscripcion {
+
+        background-color:#dc3545 ;
+        height: 300px;
+        color: #ffff;
+        font-family: 'Cabin', sans-serif;
+
+}
+
+.paddin_top{
+    padding-top: 100px;
+}
+
+.footer{
+    background-color: #373a3c;
+    height: 150px;
+    color: #ffff;
+    font-family: 'Lobster', cursive; 
+}
+
+#ocultar{
+    text-decoration:solid;
+   text-align: center;
+   padding: 3%;
+}
+#nosotros {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300;
+}
+#titulo{
+    margin-top: 5px;
+    text-align: center !important;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300;
+}
+.carousel__button{
+    margin-bottom: -35px;
+}
+.carousel__boton {
+    background-color: black !important;
+}
+
+.carousel__boton {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+}
+.card-title {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300 ;
+}
