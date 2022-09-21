@@ -21,7 +21,7 @@ $('body').on('click', 'h3', function() {
 //ocultar texto card//
 
 $(".card-title").click(function(){
-  $("p").toggle();
+  $(".p_toggle").toggle();
 });
 
 
